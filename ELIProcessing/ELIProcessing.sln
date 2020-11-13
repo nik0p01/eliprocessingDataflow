@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ELIProcessing", "ELIProcessing\ELIProcessing.csproj", "{9B7C1AC5-912D-48AC-A60F-E434213B9939}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B7C1AC5-912D-48AC-A60F-E434213B9939}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B7C1AC5-912D-48AC-A60F-E434213B9939}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B7C1AC5-912D-48AC-A60F-E434213B9939}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B7C1AC5-912D-48AC-A60F-E434213B9939}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA342D8B-05A6-4063-BCA2-3F0AD3644BDB}
+	EndGlobalSection
+EndGlobal

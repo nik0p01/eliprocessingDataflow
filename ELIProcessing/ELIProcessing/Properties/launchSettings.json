@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ELIProcessing": {
+      "commandName": "Project",
+      "commandLineArgs": "LENA16.ELI LENA17.ELI"
+    }
+  }
+}
